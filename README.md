@@ -11,3 +11,5 @@ This repository captures some notes while listening to Sean Carroll's Mindscape 
 - Simple program does not necessarily result in simple behavior. 
 
 ## Catherine D'Ignazio on Data, Objectivity, and Bias
+
+## Elizabeth Strychalski on Synthetic Cells and the Rules of Biology
