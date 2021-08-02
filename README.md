@@ -13,3 +13,5 @@ This repository captures some notes while listening to Sean Carroll's Mindscape 
 ## Catherine D'Ignazio on Data, Objectivity, and Bias
 
 ## Elizabeth Strychalski on Synthetic Cells and the Rules of Biology
+
+## David Wallace on the Arrow of Time
