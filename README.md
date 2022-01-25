@@ -15,3 +15,7 @@ This repository captures some notes while listening to Sean Carroll's Mindscape 
 ## Elizabeth Strychalski on Synthetic Cells and the Rules of Biology
 
 ## David Wallace on the Arrow of Time
+
+## David Reich on Genetics and Ancient Humanity
+
+## Camilla Pang on Instructions for Being Human
